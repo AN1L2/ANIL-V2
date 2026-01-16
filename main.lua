@@ -26,9 +26,9 @@ local redzLoaded = false
 
 ---------------- PHRASES ----------------
 local phrases = {
-    "Tmkx lola","Tmkx rudyyy","Tmkx sai","Tmkx hijraa",
+    "Tmkx lola","Tmkx sutur murg","Tmkx telephone","Tmkx hijraa",
     "Tmkx ghanta","Tmkx bhangi","Tmkx chakka",
-    "Tmkx ethiopia","ANIL PAPA HAIN"
+    "Tmkx ethiopia","ANIL PAPA BOL"
 }
 
 ---------------- UI CLEANUP ----------------
